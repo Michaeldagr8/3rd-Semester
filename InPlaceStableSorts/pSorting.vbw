@@ -1,0 +1,12 @@
+frmSorting = 516, 27, 1350, 715, C, 22, 29, 913, 702, C
+modInsertionSort = 21, 245, 855, 629, C
+modStableQuickSort = 22, 29, 856, 413, Z
+modTraditionalQuickSort = 88, 116, 966, 417, C
+modInPlaceMergeSort = 44, 58, 878, 439, C
+modTraditionalMergeSort = 150, 150, 1470, 671, C
+modStableHeapSort = 179, 67, 1499, 588, C
+modSmoothSort = 75, 75, 1395, 596, C
+modHeapSort = 0, 0, 0, 0, C
+modCraigsSmoothSort = 25, 25, 1420, 350, C
+modStableBinaryQuickSortCB = 75, 11, 1395, 690, 
+modStableBinaryQuickSortTB = 25, 25, 1345, 509, 

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1541093628 source:e:\c_projects\bst\bst.c
+	<stdlib.h>
+	<stdio.h>
+
+1541092629 source:e:\c_projects\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541092661 source:e:\c_projects\bst\iterative_algo.c
+	<stdio.h>
+	<stdlib.h>
+
+1540972208 e:\c_projects\bst\stack.c
+
+1540972178 e:\c_projects\bst\queue.c
+
+1541092672 source:e:\c_projects\bst\queue.c
+	<stdlib.h>
+
+1540992156 source:e:\c_projects\bst\stack.c
+	<stdlib.h>
+
+1540991091 e:\c_projects\bst\stack.h
+
+1540980450 e:\c_projects\bst\queue.h
+
